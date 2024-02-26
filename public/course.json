@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "course_title": "Introduction to C Programming",
+      "course_details": "Data-collection field for the fitness-to-practice of the South Africa Group of Pharmacists. Relationship with the pharmaceutical industry.",
+      "price": 78.35,
+      "credit_in_hour": 4,
+      "image": "https://i.ibb.co/hXKbmsN/Rectangle-2-2.png"
+    },
+    {
+      "id": 2,
+      "course_title": "Introduction to Algorithms",
+      "course_details": "Model 4: Power-with rather than power-over technology. Power-with technology design suggests a form of resistance and empowerment.",
+      "price": 80.91,
+      "credit_in_hour": 3,
+      "image": "https://i.ibb.co/DR4cP84/Rectangle-2-3.png"
+    },
+    {
+      "id": 3,
+      "course_title": "Introduction to C++ for DSA",
+      "course_details": "All brands are positive: Data showed that all 10 brands tested in the survey were viewed positively by a majority of participants.",
+      "price": 47.19,
+      "credit_in_hour": 4,
+      "image": "https://i.ibb.co/4ZypTNf/Rectangle-2-4.png"
+    },
+    {
+      "id": 4,
+      "course_title": "Basic Data Structures",
+      "course_details": "Three students were individually assigned three different approaches to understand how physical growth of the coffee plant could be affected.",
+      "price": 50.81,
+      "credit_in_hour": 3,
+      "image": "https://i.ibb.co/sgYL7Nc/Rectangle-3.png"
+    },
+    {
+      "id": 5,
+      "course_title": "Introduction to OOP Python",
+      "course_details": "In this context, DSS projects are large, complex, and costly in terms of both time and resources.",
+      "price": 54.67,
+      "credit_in_hour": 3,
+      "image": "https://i.ibb.co/jyHNvtw/Rectangle-2.png"
+    },
+    {
+      "id": 6,
+      "course_title": "Software Engineering",
+      "course_details": "University of California at Los Angeles (UCLA). UCLA has developed innovative uses of digital video in medical education.",
+      "price": 49.96,
+      "credit_in_hour": 1,
+      "image": "https://i.ibb.co/gDNYyrz/Rectangle-2-5.png"
+    },
+    {
+      "id": 7,
+      "course_title": "AWS, Cloud Computing",
+      "course_details": "Ultimately, the book focuses on a threefold process of technological innovation (creation, diffusion, and implementation).",
+      "price": 92.88,
+      "credit_in_hour": 2,
+      "image": "https://i.ibb.co/j5kLMbh/Rectangle-3-1.png"
+    },
+    {
+      "id": 8,
+      "course_title": "Database (MySQL)",
+      "course_details": "These tests showed that both the F-tests and T-tests favored the marketing approach with very high statistical significance.",
+      "price": 70.22,
+      "credit_in_hour": 3,
+      "image": "https://i.ibb.co/m8vYdTb/Rectangle-2-1.png"
+    },
+    {
+      "id": 9,
+      "course_title": "Problem-Solving Part",
+      "course_details": "Common problems with e-learning include the lack of standardized instructional design.",
+      "price": 35.65,
+      "credit_in_hour": 4,
+      "image": "https://i.ibb.co/xGcy7jK/Rectangle-2-6.png"
+    }
+  ]
+  
